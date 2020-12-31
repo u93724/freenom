@@ -148,7 +148,7 @@ Telegram bot 有两个配置项，一个是`chatID`（对应`.env`文件中的`T
 $ mkdir -p /data/wwwroot/freenom
 $ cd /data/wwwroot/freenom
 
-# clone本仓库源码
+# clone本仓库源码--
 $ git clone https://github.com/luolongfei/freenom.git ./
 ```
 
